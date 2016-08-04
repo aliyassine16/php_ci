@@ -1,0 +1,12 @@
+{
+  "require": {
+
+    "pdepend/pdepend" : "@stable",
+    "sebastian/phpcpd": "*",
+    "squizlabs/php_codesniffer": "2.*",
+    "theseer/phpdox": "@stable",
+    "phploc/phploc": "@stable",
+    "phpmd/phpmd" : "@stable",
+    "phpunit/phpunit": "@stable"
+  }
+}
